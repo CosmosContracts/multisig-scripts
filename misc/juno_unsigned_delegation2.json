@@ -1,0 +1,249 @@
+{
+  "body": {
+    "messages": [
+      {
+        "@type": "/cosmos.staking.v1beta1.MsgDelegate",
+        "delegator_address": "juno190g5j8aszqhvtg7cprmev8xcxs6csra7xnk3n3",
+        "validator_address": "junovaloper1kgddca7qj96z0qcxr2c45z73cfl0c75pjjs360",
+        "amount": { "denom": "ujuno", "amount": "16000000000" }
+      },
+      {
+        "@type": "/cosmos.staking.v1beta1.MsgDelegate",
+        "delegator_address": "juno190g5j8aszqhvtg7cprmev8xcxs6csra7xnk3n3",
+        "validator_address": "junovaloper17h2x3j7u44qkrq0sk8ul0r2qr440rwgj6jfwcp",
+        "amount": { "denom": "ujuno", "amount": "21550000000" }
+      },
+      {
+        "@type": "/cosmos.staking.v1beta1.MsgDelegate",
+        "delegator_address": "juno190g5j8aszqhvtg7cprmev8xcxs6csra7xnk3n3",
+        "validator_address": "junovaloper1udpsgkgyutgsglauk9vk9rs03a3skc62y8qyrj",
+        "amount": { "denom": "ujuno", "amount": "19995000000" }
+      },
+      {
+        "@type": "/cosmos.staking.v1beta1.MsgDelegate",
+        "delegator_address": "juno190g5j8aszqhvtg7cprmev8xcxs6csra7xnk3n3",
+        "validator_address": "junovaloper1pjmngrwcsatsuyy8m3qrunaun67sr9x7w0ztsx",
+        "amount": { "denom": "ujuno", "amount": "23488000000" }
+      },
+      {
+        "@type": "/cosmos.staking.v1beta1.MsgDelegate",
+        "delegator_address": "juno190g5j8aszqhvtg7cprmev8xcxs6csra7xnk3n3",
+        "validator_address": "junovaloper175q6smvgnuec5e62rs4chnu5cs8d98q2e4l6cl",
+        "amount": { "denom": "ujuno", "amount": "25000000000" }
+      },
+      {
+        "@type": "/cosmos.staking.v1beta1.MsgDelegate",
+        "delegator_address": "juno190g5j8aszqhvtg7cprmev8xcxs6csra7xnk3n3",
+        "validator_address": "junovaloper1x73p5aukx7ak8c2gss3ctvdlqyln38xjnkdj83",
+        "amount": { "denom": "ujuno", "amount": "20000000000" }
+      },
+      {
+        "@type": "/cosmos.staking.v1beta1.MsgDelegate",
+        "delegator_address": "juno190g5j8aszqhvtg7cprmev8xcxs6csra7xnk3n3",
+        "validator_address": "junovaloper1q6d3d089hg59x6gcx92uumx70s5y5wad6yachx",
+        "amount": { "denom": "ujuno", "amount": "22500000000" }
+      },
+      {
+        "@type": "/cosmos.staking.v1beta1.MsgDelegate",
+        "delegator_address": "juno190g5j8aszqhvtg7cprmev8xcxs6csra7xnk3n3",
+        "validator_address": "junovaloper19j2hd230c3hw6ds843yu8akc0xgvdvyuw7dw66",
+        "amount": { "denom": "ujuno", "amount": "17655000000" }
+      },
+      {
+        "@type": "/cosmos.staking.v1beta1.MsgDelegate",
+        "delegator_address": "juno190g5j8aszqhvtg7cprmev8xcxs6csra7xnk3n3",
+        "validator_address": "junovaloper1ncu32g0lzhk0epzdar7smd3qv9da2n8w8mwn4k",
+        "amount": { "denom": "ujuno", "amount": "20000000000" }
+      },
+      {
+        "@type": "/cosmos.staking.v1beta1.MsgDelegate",
+        "delegator_address": "juno190g5j8aszqhvtg7cprmev8xcxs6csra7xnk3n3",
+        "validator_address": "junovaloper1p0r4znp29547d8ra5k8t6ls0ztm3tj74ak38wz",
+        "amount": { "denom": "ujuno", "amount": "31000000000" }
+      },
+      {
+        "@type": "/cosmos.staking.v1beta1.MsgDelegate",
+        "delegator_address": "juno190g5j8aszqhvtg7cprmev8xcxs6csra7xnk3n3",
+        "validator_address": "junovaloper1vq8tw77kp8lvxq9u3c8eeln9zymn68rng8pgt4",
+        "amount": { "denom": "ujuno", "amount": "24577000000" }
+      },
+      {
+        "@type": "/cosmos.staking.v1beta1.MsgDelegate",
+        "delegator_address": "juno190g5j8aszqhvtg7cprmev8xcxs6csra7xnk3n3",
+        "validator_address": "junovaloper15qpazr8ygkgy2sqc33wkr3q6tzmnrupx9xcr07",
+        "amount": { "denom": "ujuno", "amount": "20000000000" }
+      },
+      {
+        "@type": "/cosmos.staking.v1beta1.MsgDelegate",
+        "delegator_address": "juno190g5j8aszqhvtg7cprmev8xcxs6csra7xnk3n3",
+        "validator_address": "junovaloper1s0lankh33kprer2l22nank5rvsuh9ksahu7s62",
+        "amount": { "denom": "ujuno", "amount": "19000000000" }
+      },
+      {
+        "@type": "/cosmos.staking.v1beta1.MsgDelegate",
+        "delegator_address": "juno190g5j8aszqhvtg7cprmev8xcxs6csra7xnk3n3",
+        "validator_address": "junovaloper1wtv0kp6ydt03edd8kyr5arr4f3yc52vpa8t8p2",
+        "amount": { "denom": "ujuno", "amount": "20000000000" }
+      },
+      {
+        "@type": "/cosmos.staking.v1beta1.MsgDelegate",
+        "delegator_address": "juno190g5j8aszqhvtg7cprmev8xcxs6csra7xnk3n3",
+        "validator_address": "junovaloper1xwazl8ftks4gn00y5x3c47auquc62ssuvynw64",
+        "amount": { "denom": "ujuno", "amount": "20000000000" }
+      },
+      {
+        "@type": "/cosmos.staking.v1beta1.MsgDelegate",
+        "delegator_address": "juno190g5j8aszqhvtg7cprmev8xcxs6csra7xnk3n3",
+        "validator_address": "junovaloper1qcrjhyp0x7ft5k0duz8gxx4cmwqaxv7lr0lxa5",
+        "amount": { "denom": "ujuno", "amount": "20000000000" }
+      },
+      {
+        "@type": "/cosmos.staking.v1beta1.MsgDelegate",
+        "delegator_address": "juno190g5j8aszqhvtg7cprmev8xcxs6csra7xnk3n3",
+        "validator_address": "junovaloper1la7th9kc3gdltl53cedxxqpkyk5runudrzwx55",
+        "amount": { "denom": "ujuno", "amount": "29777000000" }
+      },
+      {
+        "@type": "/cosmos.staking.v1beta1.MsgDelegate",
+        "delegator_address": "juno190g5j8aszqhvtg7cprmev8xcxs6csra7xnk3n3",
+        "validator_address": "junovaloper1zxx8j75ngm8m38v9l5wreaavwnsuun7gcq5cu8",
+        "amount": { "denom": "ujuno", "amount": "27888000000" }
+      },
+      {
+        "@type": "/cosmos.staking.v1beta1.MsgDelegate",
+        "delegator_address": "juno190g5j8aszqhvtg7cprmev8xcxs6csra7xnk3n3",
+        "validator_address": "junovaloper10wq46f8du234aqtlucv7h9jtrfuxmcnt9ln69l",
+        "amount": { "denom": "ujuno", "amount": "31677000000" }
+      },
+      {
+        "@type": "/cosmos.staking.v1beta1.MsgDelegate",
+        "delegator_address": "juno190g5j8aszqhvtg7cprmev8xcxs6csra7xnk3n3",
+        "validator_address": "junovaloper1s05va5d09xlq3et8mapsesqh6r5lqy7m6v038d",
+        "amount": { "denom": "ujuno", "amount": "26877000000" }
+      },
+      {
+        "@type": "/cosmos.staking.v1beta1.MsgDelegate",
+        "delegator_address": "juno190g5j8aszqhvtg7cprmev8xcxs6csra7xnk3n3",
+        "validator_address": "junovaloper19w9huamhq32shes95dr4kmqequ5pe450up6wvf",
+        "amount": { "denom": "ujuno", "amount": "15644000000" }
+      },
+      {
+        "@type": "/cosmos.staking.v1beta1.MsgDelegate",
+        "delegator_address": "juno190g5j8aszqhvtg7cprmev8xcxs6csra7xnk3n3",
+        "validator_address": "junovaloper1ualhu3fjgg77g485gmyswkq3w0dp7gyskmr0n6",
+        "amount": { "denom": "ujuno", "amount": "17655000000" }
+      },
+      {
+        "@type": "/cosmos.staking.v1beta1.MsgDelegate",
+        "delegator_address": "juno190g5j8aszqhvtg7cprmev8xcxs6csra7xnk3n3",
+        "validator_address": "junovaloper1mzqqrctm0hvkghf66jruxjtggd5j447dmugz0j",
+        "amount": { "denom": "ujuno", "amount": "11300000000" }
+      },
+      {
+        "@type": "/cosmos.staking.v1beta1.MsgDelegate",
+        "delegator_address": "juno190g5j8aszqhvtg7cprmev8xcxs6csra7xnk3n3",
+        "validator_address": "junovaloper1353ewfc0v7pnn3xre6v9lraghxrhenswmsjhv0",
+        "amount": { "denom": "ujuno", "amount": "25000000000" }
+      },
+      {
+        "@type": "/cosmos.staking.v1beta1.MsgDelegate",
+        "delegator_address": "juno190g5j8aszqhvtg7cprmev8xcxs6csra7xnk3n3",
+        "validator_address": "junovaloper1mxpyg8u68k6a8wdu3hs5whcpw9q285pcpxm5yx",
+        "amount": { "denom": "ujuno", "amount": "27000000000" }
+      },
+      {
+        "@type": "/cosmos.staking.v1beta1.MsgDelegate",
+        "delegator_address": "juno190g5j8aszqhvtg7cprmev8xcxs6csra7xnk3n3",
+        "validator_address": "junovaloper1ty96k6wly7k9ualepv2hs258u29esn6mq02yd4",
+        "amount": { "denom": "ujuno", "amount": "20000000000" }
+      },
+      {
+        "@type": "/cosmos.staking.v1beta1.MsgDelegate",
+        "delegator_address": "juno190g5j8aszqhvtg7cprmev8xcxs6csra7xnk3n3",
+        "validator_address": "junovaloper16msryt3fqlxtvsy8u5ay7wv2p8mglfg9g70e3q",
+        "amount": { "denom": "ujuno", "amount": "31000000000" }
+      },
+      {
+        "@type": "/cosmos.staking.v1beta1.MsgDelegate",
+        "delegator_address": "juno190g5j8aszqhvtg7cprmev8xcxs6csra7xnk3n3",
+        "validator_address": "junovaloper1aevx3gfvvdce60ql75fp6j4fzj42lru9h0vhqq",
+        "amount": { "denom": "ujuno", "amount": "20000000000" }
+      },
+      {
+        "@type": "/cosmos.staking.v1beta1.MsgDelegate",
+        "delegator_address": "juno190g5j8aszqhvtg7cprmev8xcxs6csra7xnk3n3",
+        "validator_address": "junovaloper1cgh5ksjwy2sd407lyre4l3uj2fdrqhpkw6wmfv",
+        "amount": { "denom": "ujuno", "amount": "26599000000" }
+      },
+      {
+        "@type": "/cosmos.staking.v1beta1.MsgDelegate",
+        "delegator_address": "juno190g5j8aszqhvtg7cprmev8xcxs6csra7xnk3n3",
+        "validator_address": "junovaloper16467xlswtq874gj30lrwgae2jqfn64du24w7wx",
+        "amount": { "denom": "ujuno", "amount": "9799000000" }
+      },
+      {
+        "@type": "/cosmos.staking.v1beta1.MsgDelegate",
+        "delegator_address": "juno190g5j8aszqhvtg7cprmev8xcxs6csra7xnk3n3",
+        "validator_address": "junovaloper1gsjfwpfskfzkwl97tlsph8n2ap0gyjucp0j72x",
+        "amount": { "denom": "ujuno", "amount": "16588000000" }
+      },
+      {
+        "@type": "/cosmos.staking.v1beta1.MsgDelegate",
+        "delegator_address": "juno190g5j8aszqhvtg7cprmev8xcxs6csra7xnk3n3",
+        "validator_address": "junovaloper1vd02f9cshv2ur4zvm68zgvwxsmtpn69kqhdv4p",
+        "amount": { "denom": "ujuno", "amount": "19300000000" }
+      },
+      {
+        "@type": "/cosmos.staking.v1beta1.MsgDelegate",
+        "delegator_address": "juno190g5j8aszqhvtg7cprmev8xcxs6csra7xnk3n3",
+        "validator_address": "junovaloper193486ateqqf3v7z89x74zx9s85xketdyu9ttts",
+        "amount": { "denom": "ujuno", "amount": "27000000000" }
+      },
+      {
+        "@type": "/cosmos.staking.v1beta1.MsgDelegate",
+        "delegator_address": "juno190g5j8aszqhvtg7cprmev8xcxs6csra7xnk3n3",
+        "validator_address": "junovaloper1kuu0a4d5a50wvmhv8x0hh4snvncqr3qsfmrknp",
+        "amount": { "denom": "ujuno", "amount": "7900000000" }
+      },
+      {
+        "@type": "/cosmos.staking.v1beta1.MsgDelegate",
+        "delegator_address": "juno190g5j8aszqhvtg7cprmev8xcxs6csra7xnk3n3",
+        "validator_address": "junovaloper166r5ylkp70xe0ysq2hjxn26m4q9vfn8q3lv46c",
+        "amount": { "denom": "ujuno", "amount": "17977000000" }
+      },
+      {
+        "@type": "/cosmos.staking.v1beta1.MsgDelegate",
+        "delegator_address": "juno190g5j8aszqhvtg7cprmev8xcxs6csra7xnk3n3",
+        "validator_address": "junovaloper1fj75m0v53ezdd8mlknzgdg4l3hvwh0h20sg4a8",
+        "amount": { "denom": "ujuno", "amount": "11644000000" }
+      },
+      {
+        "@type": "/cosmos.staking.v1beta1.MsgDelegate",
+        "delegator_address": "juno190g5j8aszqhvtg7cprmev8xcxs6csra7xnk3n3",
+        "validator_address": "junovaloper1gwd9l44t22e3nteu68akfgykuxu6lq6m6u786d",
+        "amount": { "denom": "ujuno", "amount": "16544000000" }
+      },
+      {
+        "@type": "/cosmos.staking.v1beta1.MsgDelegate",
+        "delegator_address": "juno190g5j8aszqhvtg7cprmev8xcxs6csra7xnk3n3",
+        "validator_address": "junovaloper1ww5s8k6820cft2v75cdptesqz3kc27n333arp2",
+        "amount": { "denom": "ujuno", "amount": "17899000000" }
+      },
+      {
+        "@type": "/cosmos.staking.v1beta1.MsgDelegate",
+        "delegator_address": "juno190g5j8aszqhvtg7cprmev8xcxs6csra7xnk3n3",
+        "validator_address": "junovaloper1dru5985k4n5q369rxeqfdsjl8ezutch8mc6nx9",
+        "amount": { "denom": "ujuno", "amount": "30000000000" }
+      }
+    ],
+    "memo": "",
+    "timeout_height": "0",
+    "extension_options": [],
+    "non_critical_extension_options": []
+  },
+  "auth_info": {
+    "signer_infos": [],
+    "fee": { "amount": [], "gas_limit": "60000000", "payer": "", "granter": "" }
+  },
+  "signatures": []
+}

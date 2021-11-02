@@ -1,0 +1,23 @@
+{
+  "body": {
+    "messages": [
+      {
+        "@type": "/cosmos.vesting.v1beta1.MsgCreateVestingAccount",
+        "from_address": "juno190g5j8aszqhvtg7cprmev8xcxs6csra7xnk3n3",
+        "to_address": "juno1hqt6zk4h0turv5n7gk5vd60dd6xlfgg6x5zq3k",
+        "amount": [{ "denom": "ujuno", "amount": "28853000000" }],
+        "end_time": "379468800",
+        "delayed": false
+      }
+    ],
+    "memo": "",
+    "timeout_height": "0",
+    "extension_options": [],
+    "non_critical_extension_options": []
+  },
+  "auth_info": {
+    "signer_infos": [],
+    "fee": { "amount": [], "gas_limit": "200000", "payer": "", "granter": "" }
+  },
+  "signatures": []
+}

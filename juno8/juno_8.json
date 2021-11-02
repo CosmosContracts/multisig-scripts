@@ -1,0 +1,69 @@
+{
+  "body": {
+    "messages": [
+      {
+        "@type": "/cosmos.bank.v1beta1.MsgSend",
+        "from_address": "juno190g5j8aszqhvtg7cprmev8xcxs6csra7xnk3n3",
+        "to_address": "juno16yf94eecl6h44l5w7zp75skh3rg0k4vegd3kr3",
+        "amount": [{ "denom": "ujuno", "amount": "106177266" }]
+      },
+      {
+        "@type": "/cosmos.bank.v1beta1.MsgSend",
+        "from_address": "juno190g5j8aszqhvtg7cprmev8xcxs6csra7xnk3n3",
+        "to_address": "juno15mlzpdgwmms4xqa0ju203w0f2822atstapy3uc",
+        "amount": [{ "denom": "ujuno", "amount": "318531800" }]
+      },
+      {
+        "@type": "/cosmos.bank.v1beta1.MsgSend",
+        "from_address": "juno190g5j8aszqhvtg7cprmev8xcxs6csra7xnk3n3",
+        "to_address": "juno14d4mek8tj5uef7gxpg6lp3ur6f5j3ka80zd7fy",
+        "amount": [{ "denom": "ujuno", "amount": "222972260" }]
+      },
+      {
+        "@type": "/cosmos.bank.v1beta1.MsgSend",
+        "from_address": "juno190g5j8aszqhvtg7cprmev8xcxs6csra7xnk3n3",
+        "to_address": "juno1mxpyg8u68k6a8wdu3hs5whcpw9q285pc7mdmll",
+        "amount": [{ "denom": "ujuno", "amount": "222972260" }]
+      },
+      {
+        "@type": "/cosmos.bank.v1beta1.MsgSend",
+        "from_address": "juno190g5j8aszqhvtg7cprmev8xcxs6csra7xnk3n3",
+        "to_address": "juno1ate5nqvum46uk2k3ta27e7yr3fgskqll7k6272",
+        "amount": [{ "denom": "ujuno", "amount": "159265900" }]
+      },
+      {
+        "@type": "/cosmos.bank.v1beta1.MsgSend",
+        "from_address": "juno190g5j8aszqhvtg7cprmev8xcxs6csra7xnk3n3",
+        "to_address": "juno1s0lankh33kprer2l22nank5rvsuh9ksagpglpn",
+        "amount": [{ "denom": "ujuno", "amount": "159265900" }]
+      },
+      {
+        "@type": "/cosmos.bank.v1beta1.MsgSend",
+        "from_address": "juno190g5j8aszqhvtg7cprmev8xcxs6csra7xnk3n3",
+        "to_address": "juno1ucdafm0s4uka6lnmaa7dl7tt489l2wfv3s3wfl",
+        "amount": [{ "denom": "ujuno", "amount": "159265900" }]
+      },
+      {
+        "@type": "/cosmos.bank.v1beta1.MsgSend",
+        "from_address": "juno190g5j8aszqhvtg7cprmev8xcxs6csra7xnk3n3",
+        "to_address": "juno1353ewfc0v7pnn3xre6v9lraghxrhenswydychk",
+        "amount": [{ "denom": "ujuno", "amount": "159265900" }]
+      },
+      {
+        "@type": "/cosmos.bank.v1beta1.MsgSend",
+        "from_address": "juno190g5j8aszqhvtg7cprmev8xcxs6csra7xnk3n3",
+        "to_address": "juno1wd02ktcvpananlvd9u6jm3x3ap3vmw59d3nrzm",
+        "amount": [{ "denom": "ujuno", "amount": "159265900" }]
+      }
+    ],
+    "memo": "",
+    "timeout_height": "0",
+    "extension_options": [],
+    "non_critical_extension_options": []
+  },
+  "auth_info": {
+    "signer_infos": [],
+    "fee": { "amount": [], "gas_limit": "70000000", "payer": "", "granter": "" }
+  },
+  "signatures": []
+}
