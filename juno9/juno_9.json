@@ -69,7 +69,7 @@
       {
         "@type": "/cosmos.vesting.v1beta1.MsgCreateVestingAccount",
         "from_address": "juno190g5j8aszqhvtg7cprmev8xcxs6csra7xnk3n3",
-        "to_address": "juno16m3y3qlxf56a03y8z8c0edxpdx2y3pq0fngc54",
+        "to_address": "juno16d9d47aetaf0wyc42zgp5cmtcccnmsn4sahrqj",
         "amount": [
           {
             "denom": "ujuno",
